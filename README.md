@@ -1,1 +1,2 @@
-# Lost-and-Found-Management-System
+# Authror Name: Mustafa Ahmad (Team lead), Huzaifa, and Rafay
+# 
